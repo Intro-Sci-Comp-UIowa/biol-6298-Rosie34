@@ -18,7 +18,7 @@ Here is a figure I want to reproduce, Figure 1B
 6.	Adjust resolution to get the best figure and output the figure
 In addition, they shared all their ChIP-Seq data in NCBI database, I will try to use them to calculate Pearson’s coefficient if I have more time to invest.
 
-Here is the ChIP-Seq data they shared, and I can download all of them from GEO database.
+Here are the ChIP-Seq data they shared, and I can download all of them from GEO database.
 The following ChIP-Seq data were used: 
 •	wgEncodeEH002022 (for TCF7L2 in HEK293 cells)
 •	wgEncodeEH001779 (for KAP1 in HEK293 cells)
