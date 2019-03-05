@@ -11,7 +11,8 @@ In figure1A, they discovered all four profiles practically coincide. Therefore, 
 # My figure
 
 Here is a figure I want to reproduce, Figure 1B
-![Figure 1B is a heatmap indicating the correlation between DSB hot spots, H2AX, and γ -H2AX. To test this correlation, they used three different cells which are CD4+ T lymphocytes (irradiated or not irradiated) and Jurkat (T-cell lymphoma culture cells). The reason why they used T lymphocytes is that they are resting cells and are not prone to replication stress. Thus, only transcriptional stress affects the profiles of H2AX and γ -H2AX. Since it is recently shown that not only γ -H2AX but also H2AX is strongly associated with DSBs, they confirmed that both H2AX and γ -H2AX have a strong positive correlation with DSBs by showing a Pearson’s correlation. Coefficient between 0.53 and 0.64 indicates a strong positive relationship. Based on this heatmap, they reported that both H2AX (dark blue and blue) and γ -H2AX (deep green) can be used as a biomarker of DSBs. Additionally, they showed that the pattern of DSBs and the profiles of H2AX and γ -H2AX are the same in figure 1A. Therefore, they concluded that these nine hot spots are the result of in vivo DNA breakage.](https://github.com/Rosie34/COSMOS/blob/master/1.png)
+![](https://github.com/Rosie34/COSMOS/blob/master/1.png)
+
 Figure1B is a heatmap representing the correlation between DSB hotspots, H2AX and γ -H2AX. To test this correlation, they analyzed ChIP-Seq data sets from CD4+ T lymphocytes (irradiated or not irradiated) and Jurkat and calculated Pearson’s correlation coefficient. They confirmed that both H2AX and γ -H2AX have a strong positive correlation with DSBs. Coefficient between 0.53 and 0.64 indicates a strong positive relationship. Therefore, they reported that both H2AX (dark blue and blue) and γ -H2AX (deep green) can be used as a biomarker of DSBs.
 
 # Methods
