@@ -1,0 +1,3793 @@
+track type=wiggle_0 name="RAFT" description="DSB chrY" visibility=full viewLimits=0.0:402.3 color=255,200,0 yLineOnOff=on priority=10 
+variableStep chrom=chrY span=35
+13556 8.83
+
+variableStep chrom=chrY span=72
+15355 24.76
+
+variableStep chrom=chrY span=72
+96670 11.71
+
+variableStep chrom=chrY span=134
+96755 9.35
+
+variableStep chrom=chrY span=157
+100086 17.92
+
+variableStep chrom=chrY span=106
+100384 58.60
+
+variableStep chrom=chrY span=125
+100933 8.52
+
+variableStep chrom=chrY span=113
+101321 85.45
+
+variableStep chrom=chrY span=116
+116340 9.11
+
+variableStep chrom=chrY span=93
+119310 4.65
+
+variableStep chrom=chrY span=45
+119586 9.51
+
+variableStep chrom=chrY span=40
+123830 2.83
+
+variableStep chrom=chrY span=92
+126599 5.85
+
+variableStep chrom=chrY span=89
+127760 6.91
+
+variableStep chrom=chrY span=95
+128363 4.67
+
+variableStep chrom=chrY span=52
+128878 2.96
+
+variableStep chrom=chrY span=120
+133121 5.03
+
+variableStep chrom=chrY span=133
+134103 21.59
+
+variableStep chrom=chrY span=65
+142850 3.54
+
+variableStep chrom=chrY span=114
+153658 3.68
+
+variableStep chrom=chrY span=35
+155945 6.97
+
+variableStep chrom=chrY span=133
+159469 7.33
+
+variableStep chrom=chrY span=43
+160926 2.74
+
+variableStep chrom=chrY span=67
+165308 3.00
+
+variableStep chrom=chrY span=104
+167334 2.80
+
+variableStep chrom=chrY span=105
+171013 6.39
+
+variableStep chrom=chrY span=77
+172051 6.77
+
+variableStep chrom=chrY span=83
+172435 21.40
+
+variableStep chrom=chrY span=100
+176047 9.98
+
+variableStep chrom=chrY span=136
+176995 9.01
+
+variableStep chrom=chrY span=71
+177146 7.11
+
+variableStep chrom=chrY span=66
+179719 2.79
+
+variableStep chrom=chrY span=74
+179854 7.45
+
+variableStep chrom=chrY span=131
+233294 14.82
+
+variableStep chrom=chrY span=100
+233500 39.23
+
+variableStep chrom=chrY span=92
+247562 6.12
+
+variableStep chrom=chrY span=66
+247734 2.70
+
+variableStep chrom=chrY span=50
+249624 7.26
+
+variableStep chrom=chrY span=113
+265389 6.42
+
+variableStep chrom=chrY span=121
+268649 6.10
+
+variableStep chrom=chrY span=62
+271045 16.44
+
+variableStep chrom=chrY span=44
+272434 5.98
+
+variableStep chrom=chrY span=100
+275473 4.29
+
+variableStep chrom=chrY span=73
+276655 6.33
+
+variableStep chrom=chrY span=105
+278677 26.16
+
+variableStep chrom=chrY span=84
+280486 5.69
+
+variableStep chrom=chrY span=118
+283468 53.14
+
+variableStep chrom=chrY span=65
+285826 8.58
+
+variableStep chrom=chrY span=57
+286418 4.30
+
+variableStep chrom=chrY span=94
+292481 6.53
+
+variableStep chrom=chrY span=62
+305282 22.32
+
+variableStep chrom=chrY span=95
+306628 2.31
+
+variableStep chrom=chrY span=37
+311502 4.46
+
+variableStep chrom=chrY span=37
+313335 4.59
+
+variableStep chrom=chrY span=60
+320581 11.48
+
+variableStep chrom=chrY span=119
+323051 6.86
+
+variableStep chrom=chrY span=42
+323375 2.81
+
+variableStep chrom=chrY span=51
+325567 5.78
+
+variableStep chrom=chrY span=149
+328727 23.03
+
+variableStep chrom=chrY span=66
+331686 6.38
+
+variableStep chrom=chrY span=61
+332291 7.62
+
+variableStep chrom=chrY span=109
+333052 10.86
+
+variableStep chrom=chrY span=112
+340290 4.34
+
+variableStep chrom=chrY span=60
+344338 19.00
+
+variableStep chrom=chrY span=96
+345750 10.63
+
+variableStep chrom=chrY span=133
+349631 10.49
+
+variableStep chrom=chrY span=82
+349791 16.22
+
+variableStep chrom=chrY span=66
+352067 2.55
+
+variableStep chrom=chrY span=63
+352578 10.24
+
+variableStep chrom=chrY span=156
+353920 7.56
+
+variableStep chrom=chrY span=34
+355275 4.00
+
+variableStep chrom=chrY span=102
+361260 16.03
+
+variableStep chrom=chrY span=39
+361399 4.90
+
+variableStep chrom=chrY span=88
+371635 27.15
+
+variableStep chrom=chrY span=149
+375457 3.05
+
+variableStep chrom=chrY span=58
+379524 20.97
+
+variableStep chrom=chrY span=92
+383758 5.24
+
+variableStep chrom=chrY span=46
+386299 2.00
+
+variableStep chrom=chrY span=62
+386543 8.48
+
+variableStep chrom=chrY span=85
+391022 18.04
+
+variableStep chrom=chrY span=97
+396267 2.86
+
+variableStep chrom=chrY span=53
+405772 3.98
+
+variableStep chrom=chrY span=126
+407069 20.93
+
+variableStep chrom=chrY span=64
+408843 22.66
+
+variableStep chrom=chrY span=89
+417162 13.01
+
+variableStep chrom=chrY span=96
+417936 13.24
+
+variableStep chrom=chrY span=101
+419015 3.16
+
+variableStep chrom=chrY span=118
+422489 7.11
+
+variableStep chrom=chrY span=97
+428134 8.95
+
+variableStep chrom=chrY span=111
+432239 11.91
+
+variableStep chrom=chrY span=63
+434413 12.87
+
+variableStep chrom=chrY span=110
+444183 6.59
+
+variableStep chrom=chrY span=122
+445345 24.74
+
+variableStep chrom=chrY span=110
+456742 3.37
+
+variableStep chrom=chrY span=98
+457020 31.28
+
+variableStep chrom=chrY span=99
+457328 24.86
+
+variableStep chrom=chrY span=68
+463506 8.34
+
+variableStep chrom=chrY span=124
+468983 34.26
+
+variableStep chrom=chrY span=56
+471539 18.23
+
+variableStep chrom=chrY span=89
+474059 18.97
+
+variableStep chrom=chrY span=122
+481982 5.75
+
+variableStep chrom=chrY span=44
+491055 2.61
+
+variableStep chrom=chrY span=82
+492784 40.37
+
+variableStep chrom=chrY span=108
+496644 2.90
+
+variableStep chrom=chrY span=40
+504628 5.95
+
+variableStep chrom=chrY span=31
+507175 3.84
+
+variableStep chrom=chrY span=102
+508271 19.86
+
+variableStep chrom=chrY span=32
+520495 3.63
+
+variableStep chrom=chrY span=187
+524068 12.34
+
+variableStep chrom=chrY span=88
+534782 8.43
+
+variableStep chrom=chrY span=89
+554278 14.02
+
+variableStep chrom=chrY span=215
+560310 12.36
+
+variableStep chrom=chrY span=97
+570635 16.97
+
+variableStep chrom=chrY span=105
+575087 12.31
+
+variableStep chrom=chrY span=94
+575511 17.57
+
+variableStep chrom=chrY span=81
+576425 17.58
+
+variableStep chrom=chrY span=63
+583211 9.95
+
+variableStep chrom=chrY span=92
+587915 3.00
+
+variableStep chrom=chrY span=36
+590257 24.56
+
+variableStep chrom=chrY span=77
+593844 6.26
+
+variableStep chrom=chrY span=84
+604037 2.71
+
+variableStep chrom=chrY span=47
+605299 3.00
+
+variableStep chrom=chrY span=61
+608954 17.07
+
+variableStep chrom=chrY span=124
+613920 14.60
+
+variableStep chrom=chrY span=59
+620295 10.41
+
+variableStep chrom=chrY span=88
+621228 7.83
+
+variableStep chrom=chrY span=32
+626282 3.88
+
+variableStep chrom=chrY span=77
+635134 5.03
+
+variableStep chrom=chrY span=102
+650524 20.50
+
+variableStep chrom=chrY span=117
+654208 16.24
+
+variableStep chrom=chrY span=101
+659041 19.78
+
+variableStep chrom=chrY span=60
+665933 2.77
+
+variableStep chrom=chrY span=122
+666348 19.84
+
+variableStep chrom=chrY span=76
+670114 5.37
+
+variableStep chrom=chrY span=110
+677625 29.10
+
+variableStep chrom=chrY span=81
+679904 9.22
+
+variableStep chrom=chrY span=59
+680056 9.27
+
+variableStep chrom=chrY span=70
+685955 10.30
+
+variableStep chrom=chrY span=98
+686564 6.57
+
+variableStep chrom=chrY span=85
+693443 7.32
+
+variableStep chrom=chrY span=112
+694846 15.14
+
+variableStep chrom=chrY span=72
+700901 12.58
+
+variableStep chrom=chrY span=95
+703051 4.64
+
+variableStep chrom=chrY span=64
+706534 17.02
+
+variableStep chrom=chrY span=55
+710593 5.80
+
+variableStep chrom=chrY span=53
+712385 9.30
+
+variableStep chrom=chrY span=40
+715314 5.90
+
+variableStep chrom=chrY span=112
+717164 6.33
+
+variableStep chrom=chrY span=72
+718347 12.69
+
+variableStep chrom=chrY span=65
+720955 7.75
+
+variableStep chrom=chrY span=90
+726205 4.88
+
+variableStep chrom=chrY span=120
+728023 12.27
+
+variableStep chrom=chrY span=82
+734507 23.04
+
+variableStep chrom=chrY span=51
+742352 6.57
+
+variableStep chrom=chrY span=50
+742834 7.12
+
+variableStep chrom=chrY span=96
+747603 36.36
+
+variableStep chrom=chrY span=62
+748834 17.05
+
+variableStep chrom=chrY span=137
+750990 4.14
+
+variableStep chrom=chrY span=155
+760686 13.71
+
+variableStep chrom=chrY span=89
+763146 20.18
+
+variableStep chrom=chrY span=104
+765880 8.05
+
+variableStep chrom=chrY span=97
+773680 31.39
+
+variableStep chrom=chrY span=88
+774039 26.78
+
+variableStep chrom=chrY span=96
+779730 15.65
+
+variableStep chrom=chrY span=89
+787934 28.74
+
+variableStep chrom=chrY span=103
+791654 2.98
+
+variableStep chrom=chrY span=45
+795507 2.93
+
+variableStep chrom=chrY span=84
+796757 19.63
+
+variableStep chrom=chrY span=62
+797904 41.18
+
+variableStep chrom=chrY span=85
+800328 12.75
+
+variableStep chrom=chrY span=76
+802089 5.62
+
+variableStep chrom=chrY span=81
+802757 15.53
+
+variableStep chrom=chrY span=76
+803535 4.87
+
+variableStep chrom=chrY span=163
+805497 34.72
+
+variableStep chrom=chrY span=104
+818064 24.45
+
+variableStep chrom=chrY span=66
+821223 6.71
+
+variableStep chrom=chrY span=99
+833119 20.68
+
+variableStep chrom=chrY span=125
+837461 13.43
+
+variableStep chrom=chrY span=108
+838754 25.93
+
+variableStep chrom=chrY span=122
+840668 3.32
+
+variableStep chrom=chrY span=110
+847854 20.79
+
+variableStep chrom=chrY span=65
+858428 8.43
+
+variableStep chrom=chrY span=122
+861753 20.37
+
+variableStep chrom=chrY span=80
+863617 4.42
+
+variableStep chrom=chrY span=149
+867247 13.03
+
+variableStep chrom=chrY span=70
+870634 22.13
+
+variableStep chrom=chrY span=69
+871970 5.06
+
+variableStep chrom=chrY span=73
+892544 6.89
+
+variableStep chrom=chrY span=43
+896527 8.26
+
+variableStep chrom=chrY span=45
+910041 3.82
+
+variableStep chrom=chrY span=158
+911822 7.99
+
+variableStep chrom=chrY span=54
+913321 6.98
+
+variableStep chrom=chrY span=125
+915255 8.69
+
+variableStep chrom=chrY span=36
+921885 4.00
+
+variableStep chrom=chrY span=59
+924269 4.68
+
+variableStep chrom=chrY span=157
+925099 7.62
+
+variableStep chrom=chrY span=66
+940488 2.71
+
+variableStep chrom=chrY span=32
+942755 10.28
+
+variableStep chrom=chrY span=84
+955139 11.71
+
+variableStep chrom=chrY span=166
+965159 3.27
+
+variableStep chrom=chrY span=78
+966960 22.29
+
+variableStep chrom=chrY span=108
+967952 6.28
+
+variableStep chrom=chrY span=107
+968193 12.50
+
+variableStep chrom=chrY span=93
+969073 2.49
+
+variableStep chrom=chrY span=85
+970784 11.22
+
+variableStep chrom=chrY span=88
+973480 6.00
+
+variableStep chrom=chrY span=106
+974173 5.39
+
+variableStep chrom=chrY span=108
+977193 7.31
+
+variableStep chrom=chrY span=102
+978644 7.17
+
+variableStep chrom=chrY span=47
+982356 4.98
+
+variableStep chrom=chrY span=55
+1047634 7.04
+
+variableStep chrom=chrY span=106
+1052198 5.63
+
+variableStep chrom=chrY span=82
+1134695 7.78
+
+variableStep chrom=chrY span=61
+1136900 25.49
+
+variableStep chrom=chrY span=60
+1138564 12.50
+
+variableStep chrom=chrY span=43
+1142457 2.84
+
+variableStep chrom=chrY span=90
+1146906 8.20
+
+variableStep chrom=chrY span=37
+1148292 2.00
+
+variableStep chrom=chrY span=51
+1149619 8.18
+
+variableStep chrom=chrY span=37
+1152930 8.51
+
+variableStep chrom=chrY span=52
+1159951 4.71
+
+variableStep chrom=chrY span=86
+1163975 27.94
+
+variableStep chrom=chrY span=87
+1164211 15.33
+
+variableStep chrom=chrY span=151
+1166788 8.01
+
+variableStep chrom=chrY span=65
+1168606 2.98
+
+variableStep chrom=chrY span=39
+1168678 8.92
+
+variableStep chrom=chrY span=77
+1170831 3.69
+
+variableStep chrom=chrY span=61
+1177284 11.51
+
+variableStep chrom=chrY span=48
+1183015 4.33
+
+variableStep chrom=chrY span=47
+1186919 5.53
+
+variableStep chrom=chrY span=103
+1199930 43.90
+
+variableStep chrom=chrY span=49
+1203476 2.82
+
+variableStep chrom=chrY span=99
+1213435 7.71
+
+variableStep chrom=chrY span=124
+1264553 16.59
+
+variableStep chrom=chrY span=53
+1273310 11.42
+
+variableStep chrom=chrY span=96
+1273867 23.99
+
+variableStep chrom=chrY span=92
+1280934 6.09
+
+variableStep chrom=chrY span=70
+1283916 3.84
+
+variableStep chrom=chrY span=48
+1286214 39.50
+
+variableStep chrom=chrY span=92
+1288805 7.71
+
+variableStep chrom=chrY span=107
+1289018 20.05
+
+variableStep chrom=chrY span=59
+1294767 3.80
+
+variableStep chrom=chrY span=56
+1298399 18.50
+
+variableStep chrom=chrY span=76
+1299000 26.78
+
+variableStep chrom=chrY span=66
+1299646 3.97
+
+variableStep chrom=chrY span=97
+1300103 3.80
+
+variableStep chrom=chrY span=73
+1303683 13.15
+
+variableStep chrom=chrY span=63
+1307504 2.95
+
+variableStep chrom=chrY span=82
+1308601 12.15
+
+variableStep chrom=chrY span=104
+1316381 10.02
+
+variableStep chrom=chrY span=87
+1316574 8.56
+
+variableStep chrom=chrY span=92
+1319438 21.90
+
+variableStep chrom=chrY span=117
+1323101 7.11
+
+variableStep chrom=chrY span=64
+1325745 23.11
+
+variableStep chrom=chrY span=46
+1326916 15.35
+
+variableStep chrom=chrY span=58
+1344824 11.22
+
+variableStep chrom=chrY span=84
+1345690 5.54
+
+variableStep chrom=chrY span=103
+1346056 4.98
+
+variableStep chrom=chrY span=124
+1350929 5.32
+
+variableStep chrom=chrY span=40
+1355870 9.97
+
+variableStep chrom=chrY span=108
+1356340 32.65
+
+variableStep chrom=chrY span=111
+1358153 21.41
+
+variableStep chrom=chrY span=45
+1363900 2.91
+
+variableStep chrom=chrY span=92
+1368674 2.52
+
+variableStep chrom=chrY span=138
+1369458 22.59
+
+variableStep chrom=chrY span=119
+1375201 7.42
+
+variableStep chrom=chrY span=49
+1381496 10.04
+
+variableStep chrom=chrY span=30
+1381596 2.90
+
+variableStep chrom=chrY span=71
+1382995 8.90
+
+variableStep chrom=chrY span=50
+1384314 5.98
+
+variableStep chrom=chrY span=36
+1387920 3.75
+
+variableStep chrom=chrY span=114
+1394778 13.00
+
+variableStep chrom=chrY span=93
+1401504 3.84
+
+variableStep chrom=chrY span=100
+1403429 9.52
+
+variableStep chrom=chrY span=122
+1405049 23.04
+
+variableStep chrom=chrY span=114
+1405648 4.26
+
+variableStep chrom=chrY span=130
+1412511 24.38
+
+variableStep chrom=chrY span=92
+1414208 13.09
+
+variableStep chrom=chrY span=51
+1414574 8.78
+
+variableStep chrom=chrY span=86
+1417419 7.26
+
+variableStep chrom=chrY span=50
+1426769 17.76
+
+variableStep chrom=chrY span=49
+1427284 2.98
+
+variableStep chrom=chrY span=39
+1429624 11.51
+
+variableStep chrom=chrY span=55
+1433939 2.91
+
+variableStep chrom=chrY span=72
+1436862 2.50
+
+variableStep chrom=chrY span=123
+1436984 5.25
+
+variableStep chrom=chrY span=111
+1441064 4.14
+
+variableStep chrom=chrY span=72
+1443666 7.42
+
+variableStep chrom=chrY span=92
+1444344 9.61
+
+variableStep chrom=chrY span=193
+1445764 15.22
+
+variableStep chrom=chrY span=84
+1448208 16.80
+
+variableStep chrom=chrY span=35
+1448994 7.89
+
+variableStep chrom=chrY span=81
+1451848 15.81
+
+variableStep chrom=chrY span=39
+1452708 18.87
+
+variableStep chrom=chrY span=57
+1476915 4.70
+
+variableStep chrom=chrY span=77
+1480438 7.77
+
+variableStep chrom=chrY span=81
+1484520 3.88
+
+variableStep chrom=chrY span=97
+1491017 10.30
+
+variableStep chrom=chrY span=78
+1491993 3.85
+
+variableStep chrom=chrY span=82
+1493481 25.79
+
+variableStep chrom=chrY span=36
+1493780 9.92
+
+variableStep chrom=chrY span=50
+1494384 4.90
+
+variableStep chrom=chrY span=102
+1494631 8.84
+
+variableStep chrom=chrY span=106
+1495006 4.88
+
+variableStep chrom=chrY span=125
+1497565 19.46
+
+variableStep chrom=chrY span=91
+1499438 26.44
+
+variableStep chrom=chrY span=123
+1505190 24.06
+
+variableStep chrom=chrY span=52
+1507061 8.94
+
+variableStep chrom=chrY span=72
+1508199 2.88
+
+variableStep chrom=chrY span=62
+1513937 4.42
+
+variableStep chrom=chrY span=102
+1515532 9.67
+
+variableStep chrom=chrY span=45
+1519411 9.18
+
+variableStep chrom=chrY span=69
+1525396 3.00
+
+variableStep chrom=chrY span=103
+1531196 4.00
+
+variableStep chrom=chrY span=46
+1548192 3.00
+
+variableStep chrom=chrY span=57
+1554835 9.25
+
+variableStep chrom=chrY span=38
+1555377 8.42
+
+variableStep chrom=chrY span=42
+1572392 5.81
+
+variableStep chrom=chrY span=90
+1572478 2.57
+
+variableStep chrom=chrY span=51
+1573357 6.78
+
+variableStep chrom=chrY span=38
+1577120 8.97
+
+variableStep chrom=chrY span=39
+1582459 12.72
+
+variableStep chrom=chrY span=45
+1594338 6.82
+
+variableStep chrom=chrY span=82
+1606580 21.95
+
+variableStep chrom=chrY span=72
+1607827 16.64
+
+variableStep chrom=chrY span=70
+1608591 2.60
+
+variableStep chrom=chrY span=103
+1610927 3.19
+
+variableStep chrom=chrY span=95
+1611187 20.14
+
+variableStep chrom=chrY span=107
+1612278 4.45
+
+variableStep chrom=chrY span=43
+1619180 6.51
+
+variableStep chrom=chrY span=91
+1623270 20.74
+
+variableStep chrom=chrY span=100
+1624842 31.89
+
+variableStep chrom=chrY span=65
+1625269 4.69
+
+variableStep chrom=chrY span=101
+1625513 25.12
+
+variableStep chrom=chrY span=122
+1628945 6.90
+
+variableStep chrom=chrY span=119
+1632054 9.47
+
+variableStep chrom=chrY span=65
+1632285 5.43
+
+variableStep chrom=chrY span=98
+1636931 32.15
+
+variableStep chrom=chrY span=138
+1637980 10.47
+
+variableStep chrom=chrY span=78
+1639321 7.63
+
+variableStep chrom=chrY span=36
+1641397 2.00
+
+variableStep chrom=chrY span=123
+1647153 5.45
+
+variableStep chrom=chrY span=112
+1658434 10.09
+
+variableStep chrom=chrY span=48
+1660150 2.90
+
+variableStep chrom=chrY span=63
+1675009 10.32
+
+variableStep chrom=chrY span=41
+1676083 16.27
+
+variableStep chrom=chrY span=101
+1680555 13.15
+
+variableStep chrom=chrY span=38
+1682375 2.92
+
+variableStep chrom=chrY span=77
+1683940 3.10
+
+variableStep chrom=chrY span=64
+1686139 3.86
+
+variableStep chrom=chrY span=52
+1686746 4.42
+
+variableStep chrom=chrY span=79
+1694549 4.33
+
+variableStep chrom=chrY span=67
+1694995 15.13
+
+variableStep chrom=chrY span=64
+1696930 3.92
+
+variableStep chrom=chrY span=86
+1703621 7.62
+
+variableStep chrom=chrY span=81
+1712452 22.14
+
+variableStep chrom=chrY span=81
+1715535 2.07
+
+variableStep chrom=chrY span=68
+1720064 17.51
+
+variableStep chrom=chrY span=112
+1720432 17.04
+
+variableStep chrom=chrY span=44
+1720673 8.82
+
+variableStep chrom=chrY span=60
+1724685 15.90
+
+variableStep chrom=chrY span=71
+1725890 2.73
+
+variableStep chrom=chrY span=151
+1727458 9.51
+
+variableStep chrom=chrY span=112
+1737693 2.38
+
+variableStep chrom=chrY span=99
+1740150 2.66
+
+variableStep chrom=chrY span=121
+1740307 35.68
+
+variableStep chrom=chrY span=78
+1747146 8.29
+
+variableStep chrom=chrY span=41
+1749972 3.00
+
+variableStep chrom=chrY span=30
+1751777 3.00
+
+variableStep chrom=chrY span=69
+1757070 4.88
+
+variableStep chrom=chrY span=120
+1763338 11.68
+
+variableStep chrom=chrY span=114
+1768286 13.47
+
+variableStep chrom=chrY span=41
+1779967 3.00
+
+variableStep chrom=chrY span=50
+1780413 8.34
+
+variableStep chrom=chrY span=96
+1785037 3.54
+
+variableStep chrom=chrY span=44
+1785673 4.00
+
+variableStep chrom=chrY span=199
+1789522 12.45
+
+variableStep chrom=chrY span=96
+1797574 22.44
+
+variableStep chrom=chrY span=123
+1805610 10.78
+
+variableStep chrom=chrY span=56
+1808345 10.77
+
+variableStep chrom=chrY span=90
+1810565 7.97
+
+variableStep chrom=chrY span=117
+1811233 9.11
+
+variableStep chrom=chrY span=83
+1814939 20.49
+
+variableStep chrom=chrY span=104
+1820378 6.71
+
+variableStep chrom=chrY span=67
+1828111 11.52
+
+variableStep chrom=chrY span=76
+1830623 10.22
+
+variableStep chrom=chrY span=50
+1834151 23.28
+
+variableStep chrom=chrY span=94
+1840362 14.46
+
+variableStep chrom=chrY span=91
+1871438 4.03
+
+variableStep chrom=chrY span=122
+1871963 19.97
+
+variableStep chrom=chrY span=124
+1878564 9.73
+
+variableStep chrom=chrY span=85
+1880729 5.99
+
+variableStep chrom=chrY span=123
+1881259 8.10
+
+variableStep chrom=chrY span=55
+1883809 2.98
+
+variableStep chrom=chrY span=83
+1895751 15.39
+
+variableStep chrom=chrY span=84
+1912490 8.73
+
+variableStep chrom=chrY span=128
+1924058 5.08
+
+variableStep chrom=chrY span=55
+1935190 3.49
+
+variableStep chrom=chrY span=85
+1939850 9.65
+
+variableStep chrom=chrY span=102
+1958973 3.75
+
+variableStep chrom=chrY span=122
+1962190 16.93
+
+variableStep chrom=chrY span=108
+1969615 16.42
+
+variableStep chrom=chrY span=39
+1970476 2.87
+
+variableStep chrom=chrY span=78
+1971425 20.15
+
+variableStep chrom=chrY span=42
+1977238 3.69
+
+variableStep chrom=chrY span=73
+1983505 4.92
+
+variableStep chrom=chrY span=116
+1984217 31.74
+
+variableStep chrom=chrY span=94
+1992031 32.71
+
+variableStep chrom=chrY span=86
+1995913 10.17
+
+variableStep chrom=chrY span=92
+1999699 12.96
+
+variableStep chrom=chrY span=44
+2002477 2.86
+
+variableStep chrom=chrY span=105
+2006115 81.64
+
+variableStep chrom=chrY span=37
+2010387 2.92
+
+variableStep chrom=chrY span=53
+2014647 13.19
+
+variableStep chrom=chrY span=99
+2068257 9.36
+
+variableStep chrom=chrY span=80
+2068845 2.91
+
+variableStep chrom=chrY span=112
+2073616 11.71
+
+variableStep chrom=chrY span=90
+2076168 10.33
+
+variableStep chrom=chrY span=78
+2079659 9.78
+
+variableStep chrom=chrY span=151
+2080506 9.34
+
+variableStep chrom=chrY span=86
+2085567 22.55
+
+variableStep chrom=chrY span=101
+2088460 5.92
+
+variableStep chrom=chrY span=107
+2091817 13.55
+
+variableStep chrom=chrY span=57
+2100535 3.84
+
+variableStep chrom=chrY span=107
+2103459 2.08
+
+variableStep chrom=chrY span=63
+2105725 7.92
+
+variableStep chrom=chrY span=81
+2112547 17.84
+
+variableStep chrom=chrY span=79
+2112898 11.68
+
+variableStep chrom=chrY span=106
+2121776 5.43
+
+variableStep chrom=chrY span=73
+2122722 3.25
+
+variableStep chrom=chrY span=112
+2126026 19.91
+
+variableStep chrom=chrY span=115
+2131073 9.57
+
+variableStep chrom=chrY span=99
+2144026 14.82
+
+variableStep chrom=chrY span=108
+2144496 23.67
+
+variableStep chrom=chrY span=45
+2169590 20.42
+
+variableStep chrom=chrY span=46
+2171459 10.41
+
+variableStep chrom=chrY span=88
+2171897 8.66
+
+variableStep chrom=chrY span=131
+2173390 33.38
+
+variableStep chrom=chrY span=115
+2176573 19.41
+
+variableStep chrom=chrY span=36
+2185861 3.00
+
+variableStep chrom=chrY span=86
+2186940 17.97
+
+variableStep chrom=chrY span=54
+2190034 6.57
+
+variableStep chrom=chrY span=40
+2192049 5.97
+
+variableStep chrom=chrY span=88
+2195830 22.10
+
+variableStep chrom=chrY span=88
+2201881 6.43
+
+variableStep chrom=chrY span=102
+2205198 16.69
+
+variableStep chrom=chrY span=97
+2206580 61.26
+
+variableStep chrom=chrY span=57
+2211444 20.33
+
+variableStep chrom=chrY span=96
+2213368 16.27
+
+variableStep chrom=chrY span=101
+2219903 34.73
+
+variableStep chrom=chrY span=53
+2224144 2.00
+
+variableStep chrom=chrY span=184
+2224342 11.80
+
+variableStep chrom=chrY span=92
+2225148 21.16
+
+variableStep chrom=chrY span=64
+2228342 4.92
+
+variableStep chrom=chrY span=43
+2232197 5.86
+
+variableStep chrom=chrY span=56
+2239794 13.23
+
+variableStep chrom=chrY span=95
+2257554 4.56
+
+variableStep chrom=chrY span=43
+2265066 3.74
+
+variableStep chrom=chrY span=82
+2272998 8.82
+
+variableStep chrom=chrY span=46
+2279547 6.54
+
+variableStep chrom=chrY span=76
+2281286 13.68
+
+variableStep chrom=chrY span=40
+2283334 3.73
+
+variableStep chrom=chrY span=117
+2286003 13.63
+
+variableStep chrom=chrY span=54
+2286193 4.00
+
+variableStep chrom=chrY span=102
+2290984 3.93
+
+variableStep chrom=chrY span=34
+2291593 2.00
+
+variableStep chrom=chrY span=105
+2293675 2.57
+
+variableStep chrom=chrY span=125
+2294206 35.61
+
+variableStep chrom=chrY span=136
+2305130 29.29
+
+variableStep chrom=chrY span=72
+2307767 17.15
+
+variableStep chrom=chrY span=124
+2315431 11.77
+
+variableStep chrom=chrY span=114
+2317071 3.39
+
+variableStep chrom=chrY span=130
+2318115 9.81
+
+variableStep chrom=chrY span=100
+2319006 16.33
+
+variableStep chrom=chrY span=73
+2328973 10.23
+
+variableStep chrom=chrY span=106
+2330525 25.78
+
+variableStep chrom=chrY span=134
+2352778 17.59
+
+variableStep chrom=chrY span=90
+2356195 12.18
+
+variableStep chrom=chrY span=54
+2359737 8.94
+
+variableStep chrom=chrY span=61
+2360452 7.70
+
+variableStep chrom=chrY span=77
+2360616 17.17
+
+variableStep chrom=chrY span=108
+2361246 12.96
+
+variableStep chrom=chrY span=77
+2370461 9.66
+
+variableStep chrom=chrY span=88
+2376294 11.28
+
+variableStep chrom=chrY span=128
+2377003 4.96
+
+variableStep chrom=chrY span=72
+2377727 8.89
+
+variableStep chrom=chrY span=122
+2378295 3.65
+
+variableStep chrom=chrY span=112
+2379335 3.62
+
+variableStep chrom=chrY span=107
+2380179 22.16
+
+variableStep chrom=chrY span=31
+2386561 4.97
+
+variableStep chrom=chrY span=96
+2387295 7.90
+
+variableStep chrom=chrY span=47
+2387916 14.62
+
+variableStep chrom=chrY span=45
+2398244 2.00
+
+variableStep chrom=chrY span=50
+2415665 10.78
+
+variableStep chrom=chrY span=30
+2420360 2.00
+
+variableStep chrom=chrY span=62
+2426175 4.65
+
+variableStep chrom=chrY span=104
+2429630 25.02
+
+variableStep chrom=chrY span=69
+2432562 21.54
+
+variableStep chrom=chrY span=62
+2433033 6.71
+
+variableStep chrom=chrY span=168
+2435087 5.11
+
+variableStep chrom=chrY span=103
+2437145 10.20
+
+variableStep chrom=chrY span=81
+2438683 4.00
+
+variableStep chrom=chrY span=73
+2457774 4.51
+
+variableStep chrom=chrY span=61
+2466256 10.00
+
+variableStep chrom=chrY span=94
+2469306 27.05
+
+variableStep chrom=chrY span=120
+2481420 21.93
+
+variableStep chrom=chrY span=41
+2486915 11.29
+
+variableStep chrom=chrY span=95
+2502259 7.25
+
+variableStep chrom=chrY span=115
+2506423 12.43
+
+variableStep chrom=chrY span=111
+2517560 11.66
+
+variableStep chrom=chrY span=55
+2517703 6.65
+
+variableStep chrom=chrY span=98
+2518117 12.01
+
+variableStep chrom=chrY span=38
+2520180 2.00
+
+variableStep chrom=chrY span=98
+2527975 19.90
+
+variableStep chrom=chrY span=174
+2529207 8.98
+
+variableStep chrom=chrY span=76
+2539832 7.68
+
+variableStep chrom=chrY span=41
+2546408 4.85
+
+variableStep chrom=chrY span=81
+2547912 43.64
+
+variableStep chrom=chrY span=132
+2551946 34.33
+
+variableStep chrom=chrY span=91
+2556662 6.25
+
+variableStep chrom=chrY span=75
+2571352 6.75
+
+variableStep chrom=chrY span=65
+2575322 10.11
+
+variableStep chrom=chrY span=119
+2578062 15.50
+
+variableStep chrom=chrY span=73
+2580607 6.01
+
+variableStep chrom=chrY span=93
+2585075 15.15
+
+variableStep chrom=chrY span=93
+2591636 7.22
+
+variableStep chrom=chrY span=89
+2609820 8.40
+
+variableStep chrom=chrY span=59
+2616104 8.10
+
+variableStep chrom=chrY span=65
+2619497 6.62
+
+variableStep chrom=chrY span=48
+2636867 2.92
+
+variableStep chrom=chrY span=55
+2638697 2.76
+
+variableStep chrom=chrY span=79
+2646534 16.59
+
+variableStep chrom=chrY span=117
+2647638 5.14
+
+variableStep chrom=chrY span=121
+2648596 5.40
+
+variableStep chrom=chrY span=41
+2855329 6.95
+
+variableStep chrom=chrY span=221
+2919038 2.86
+
+variableStep chrom=chrY span=62
+2989454 3.56
+
+variableStep chrom=chrY span=46
+3004299 15.87
+
+variableStep chrom=chrY span=39
+3014469 4.85
+
+variableStep chrom=chrY span=124
+3025291 29.10
+
+variableStep chrom=chrY span=119
+3058094 13.92
+
+variableStep chrom=chrY span=59
+3073228 2.00
+
+variableStep chrom=chrY span=98
+3081266 12.91
+
+variableStep chrom=chrY span=31
+3086827 3.58
+
+variableStep chrom=chrY span=124
+3102611 16.33
+
+variableStep chrom=chrY span=170
+3105126 20.25
+
+variableStep chrom=chrY span=93
+3106845 13.91
+
+variableStep chrom=chrY span=55
+3110452 5.93
+
+variableStep chrom=chrY span=52
+3115172 7.19
+
+variableStep chrom=chrY span=44
+3121270 3.77
+
+variableStep chrom=chrY span=94
+3135504 8.13
+
+variableStep chrom=chrY span=39
+3140180 3.77
+
+variableStep chrom=chrY span=99
+3158629 2.27
+
+variableStep chrom=chrY span=119
+3176873 3.45
+
+variableStep chrom=chrY span=123
+3180900 11.66
+
+variableStep chrom=chrY span=82
+3218497 9.41
+
+variableStep chrom=chrY span=123
+3224922 41.56
+
+variableStep chrom=chrY span=124
+3230412 23.77
+
+variableStep chrom=chrY span=61
+3245451 7.79
+
+variableStep chrom=chrY span=129
+3271043 25.91
+
+variableStep chrom=chrY span=96
+3277721 17.52
+
+variableStep chrom=chrY span=41
+3284908 14.49
+
+variableStep chrom=chrY span=83
+3294931 13.49
+
+variableStep chrom=chrY span=124
+3306284 10.24
+
+variableStep chrom=chrY span=41
+3309147 9.34
+
+variableStep chrom=chrY span=84
+3313883 6.15
+
+variableStep chrom=chrY span=79
+3320921 5.89
+
+variableStep chrom=chrY span=110
+3334616 5.53
+
+variableStep chrom=chrY span=38
+3335794 8.79
+
+variableStep chrom=chrY span=112
+3336607 16.35
+
+variableStep chrom=chrY span=46
+3338275 4.91
+
+variableStep chrom=chrY span=45
+3375254 3.91
+
+variableStep chrom=chrY span=57
+3390072 15.23
+
+variableStep chrom=chrY span=68
+3402582 6.81
+
+variableStep chrom=chrY span=96
+3403101 20.15
+
+variableStep chrom=chrY span=86
+3404703 14.24
+
+variableStep chrom=chrY span=126
+3475049 13.71
+
+variableStep chrom=chrY span=109
+3487668 10.12
+
+variableStep chrom=chrY span=55
+3505213 9.95
+
+variableStep chrom=chrY span=77
+3520816 6.95
+
+variableStep chrom=chrY span=42
+3533444 4.88
+
+variableStep chrom=chrY span=98
+3542944 12.33
+
+variableStep chrom=chrY span=106
+3554136 7.38
+
+variableStep chrom=chrY span=105
+3571900 11.86
+
+variableStep chrom=chrY span=98
+3574545 20.17
+
+variableStep chrom=chrY span=53
+3583572 4.92
+
+variableStep chrom=chrY span=84
+3650114 3.14
+
+variableStep chrom=chrY span=66
+3673461 11.03
+
+variableStep chrom=chrY span=35
+3676359 3.69
+
+variableStep chrom=chrY span=98
+3720947 10.62
+
+variableStep chrom=chrY span=70
+3721490 3.27
+
+variableStep chrom=chrY span=55
+3736703 3.82
+
+variableStep chrom=chrY span=112
+3739433 10.06
+
+variableStep chrom=chrY span=65
+3744224 5.77
+
+variableStep chrom=chrY span=33
+3746018 5.79
+
+variableStep chrom=chrY span=126
+3763232 6.49
+
+variableStep chrom=chrY span=50
+3776330 3.92
+
+variableStep chrom=chrY span=93
+3776576 6.81
+
+variableStep chrom=chrY span=52
+3784085 4.96
+
+variableStep chrom=chrY span=79
+3784317 5.66
+
+variableStep chrom=chrY span=45
+3811019 13.58
+
+variableStep chrom=chrY span=32
+3813874 2.00
+
+variableStep chrom=chrY span=46
+3841630 4.80
+
+variableStep chrom=chrY span=55
+3849520 2.00
+
+variableStep chrom=chrY span=75
+3869562 2.55
+
+variableStep chrom=chrY span=91
+3881298 14.15
+
+variableStep chrom=chrY span=122
+3893762 4.18
+
+variableStep chrom=chrY span=63
+3906863 22.03
+
+variableStep chrom=chrY span=56
+3910149 5.11
+
+variableStep chrom=chrY span=41
+3910851 4.83
+
+variableStep chrom=chrY span=56
+3913750 6.66
+
+variableStep chrom=chrY span=101
+3944765 28.69
+
+variableStep chrom=chrY span=35
+3989325 4.00
+
+variableStep chrom=chrY span=59
+4001577 6.85
+
+variableStep chrom=chrY span=57
+4019387 8.93
+
+variableStep chrom=chrY span=102
+4026374 13.82
+
+variableStep chrom=chrY span=52
+4060173 7.73
+
+variableStep chrom=chrY span=73
+4074169 5.84
+
+variableStep chrom=chrY span=108
+4074841 9.98
+
+variableStep chrom=chrY span=117
+4100820 32.88
+
+variableStep chrom=chrY span=106
+4104166 16.39
+
+variableStep chrom=chrY span=37
+4116688 5.84
+
+variableStep chrom=chrY span=62
+4144198 7.29
+
+variableStep chrom=chrY span=114
+4146710 10.14
+
+variableStep chrom=chrY span=55
+4149559 4.20
+
+variableStep chrom=chrY span=125
+4150930 10.13
+
+variableStep chrom=chrY span=101
+4185344 2.37
+
+variableStep chrom=chrY span=81
+4188926 13.40
+
+variableStep chrom=chrY span=73
+4220174 8.88
+
+variableStep chrom=chrY span=110
+4242373 7.02
+
+variableStep chrom=chrY span=51
+4251646 2.59
+
+variableStep chrom=chrY span=58
+4269214 8.86
+
+variableStep chrom=chrY span=111
+4276214 12.53
+
+variableStep chrom=chrY span=51
+4287094 2.86
+
+variableStep chrom=chrY span=98
+4291631 11.84
+
+variableStep chrom=chrY span=64
+4295642 15.11
+
+variableStep chrom=chrY span=91
+4298954 9.71
+
+variableStep chrom=chrY span=76
+4308689 18.21
+
+variableStep chrom=chrY span=117
+4321469 38.56
+
+variableStep chrom=chrY span=40
+4365969 8.22
+
+variableStep chrom=chrY span=102
+4379585 27.54
+
+variableStep chrom=chrY span=85
+4380744 20.94
+
+variableStep chrom=chrY span=90
+4384693 19.70
+
+variableStep chrom=chrY span=34
+4402927 4.79
+
+variableStep chrom=chrY span=84
+4406887 8.02
+
+variableStep chrom=chrY span=101
+4410120 22.36
+
+variableStep chrom=chrY span=52
+4411409 2.83
+
+variableStep chrom=chrY span=108
+4416691 4.48
+
+variableStep chrom=chrY span=62
+4423771 2.55
+
+variableStep chrom=chrY span=50
+4438460 14.06
+
+variableStep chrom=chrY span=109
+4452371 10.45
+
+variableStep chrom=chrY span=32
+4498786 3.84
+
+variableStep chrom=chrY span=103
+4507279 4.09
+
+variableStep chrom=chrY span=59
+4529642 7.90
+
+variableStep chrom=chrY span=41
+4532246 5.71
+
+variableStep chrom=chrY span=59
+4539196 2.73
+
+variableStep chrom=chrY span=123
+4579333 13.09
+
+variableStep chrom=chrY span=104
+4590181 6.23
+
+variableStep chrom=chrY span=118
+4603518 9.71
+
+variableStep chrom=chrY span=42
+4617030 8.60
+
+variableStep chrom=chrY span=142
+4618166 8.29
+
+variableStep chrom=chrY span=83
+4648081 31.37
+
+variableStep chrom=chrY span=88
+4679374 24.75
+
+variableStep chrom=chrY span=58
+4687065 4.88
+
+variableStep chrom=chrY span=120
+4687125 6.22
+
+variableStep chrom=chrY span=51
+4697627 4.76
+
+variableStep chrom=chrY span=110
+4711752 13.05
+
+variableStep chrom=chrY span=34
+4713628 7.00
+
+variableStep chrom=chrY span=83
+4735062 2.82
+
+variableStep chrom=chrY span=119
+4739199 2.91
+
+variableStep chrom=chrY span=68
+4747616 3.97
+
+variableStep chrom=chrY span=75
+4759974 15.41
+
+variableStep chrom=chrY span=124
+4768735 10.50
+
+variableStep chrom=chrY span=49
+4774503 6.94
+
+variableStep chrom=chrY span=125
+4796249 10.59
+
+variableStep chrom=chrY span=95
+4808761 2.23
+
+variableStep chrom=chrY span=78
+4829245 10.50
+
+variableStep chrom=chrY span=62
+4880896 5.81
+
+variableStep chrom=chrY span=47
+4881073 11.49
+
+variableStep chrom=chrY span=43
+4895558 2.49
+
+variableStep chrom=chrY span=71
+4897915 17.90
+
+variableStep chrom=chrY span=123
+4904199 20.05
+
+variableStep chrom=chrY span=111
+4912726 7.97
+
+variableStep chrom=chrY span=107
+4916584 9.92
+
+variableStep chrom=chrY span=106
+4931192 26.81
+
+variableStep chrom=chrY span=71
+4936005 3.80
+
+variableStep chrom=chrY span=76
+4975489 6.66
+
+variableStep chrom=chrY span=54
+5012438 2.67
+
+variableStep chrom=chrY span=37
+5031454 8.84
+
+variableStep chrom=chrY span=70
+5051058 8.81
+
+variableStep chrom=chrY span=82
+5062308 5.60
+
+variableStep chrom=chrY span=41
+5076194 4.56
+
+variableStep chrom=chrY span=93
+5082397 17.15
+
+variableStep chrom=chrY span=49
+5091600 5.22
+
+variableStep chrom=chrY span=91
+5099378 2.07
+
+variableStep chrom=chrY span=97
+5131320 10.70
+
+variableStep chrom=chrY span=44
+5136097 8.73
+
+variableStep chrom=chrY span=88
+5146344 21.20
+
+variableStep chrom=chrY span=72
+5166713 4.08
+
+variableStep chrom=chrY span=39
+5170391 5.90
+
+variableStep chrom=chrY span=63
+5172896 6.29
+
+variableStep chrom=chrY span=70
+5174899 3.91
+
+variableStep chrom=chrY span=55
+5199439 2.00
+
+variableStep chrom=chrY span=50
+5213144 3.14
+
+variableStep chrom=chrY span=37
+5217120 3.00
+
+variableStep chrom=chrY span=110
+5219121 36.55
+
+variableStep chrom=chrY span=53
+5240350 20.23
+
+variableStep chrom=chrY span=36
+5249496 4.97
+
+variableStep chrom=chrY span=64
+5289025 3.42
+
+variableStep chrom=chrY span=109
+5331214 8.62
+
+variableStep chrom=chrY span=48
+5351467 3.00
+
+variableStep chrom=chrY span=76
+5352208 33.41
+
+variableStep chrom=chrY span=119
+5356091 8.17
+
+variableStep chrom=chrY span=124
+5356918 16.31
+
+variableStep chrom=chrY span=34
+5366075 2.85
+
+variableStep chrom=chrY span=40
+5400262 7.42
+
+variableStep chrom=chrY span=104
+5401560 5.98
+
+variableStep chrom=chrY span=109
+5402273 5.35
+
+variableStep chrom=chrY span=45
+5420550 14.49
+
+variableStep chrom=chrY span=107
+5430125 7.82
+
+variableStep chrom=chrY span=31
+5445596 2.00
+
+variableStep chrom=chrY span=94
+5462176 14.81
+
+variableStep chrom=chrY span=125
+5474766 6.66
+
+variableStep chrom=chrY span=100
+5505965 9.16
+
+variableStep chrom=chrY span=90
+5508925 4.73
+
+variableStep chrom=chrY span=41
+5530944 2.00
+
+variableStep chrom=chrY span=56
+5532829 3.93
+
+variableStep chrom=chrY span=53
+5535970 4.87
+
+variableStep chrom=chrY span=118
+5560952 9.89
+
+variableStep chrom=chrY span=80
+5598820 57.98
+
+variableStep chrom=chrY span=70
+5601906 2.33
+
+variableStep chrom=chrY span=74
+5602196 6.89
+
+variableStep chrom=chrY span=67
+5604956 4.93
+
+variableStep chrom=chrY span=59
+5619349 22.85
+
+variableStep chrom=chrY span=67
+5628937 5.30
+
+variableStep chrom=chrY span=72
+5635247 8.56
+
+variableStep chrom=chrY span=54
+5647334 14.96
+
+variableStep chrom=chrY span=60
+5659176 11.37
+
+variableStep chrom=chrY span=95
+5666406 3.73
+
+variableStep chrom=chrY span=97
+5674753 21.32
+
+variableStep chrom=chrY span=59
+5686020 5.95
+
+variableStep chrom=chrY span=37
+5718141 2.70
+
+variableStep chrom=chrY span=123
+5727222 35.01
+
+variableStep chrom=chrY span=182
+5733213 21.04
+
+variableStep chrom=chrY span=104
+5789894 6.88
+
+variableStep chrom=chrY span=62
+5805768 3.97
+
+variableStep chrom=chrY span=37
+5866265 7.95
+
+variableStep chrom=chrY span=124
+5900757 6.37
+
+variableStep chrom=chrY span=38
+5906763 2.76
+
+variableStep chrom=chrY span=136
+5907980 14.61
+
+variableStep chrom=chrY span=37
+5916032 4.97
+
+variableStep chrom=chrY span=113
+5926968 18.23
+
+variableStep chrom=chrY span=37
+5927795 6.68
+
+variableStep chrom=chrY span=66
+5947982 25.20
+
+variableStep chrom=chrY span=109
+5953718 7.63
+
+variableStep chrom=chrY span=101
+5956103 19.39
+
+variableStep chrom=chrY span=74
+5960860 18.14
+
+variableStep chrom=chrY span=93
+5979937 19.58
+
+variableStep chrom=chrY span=78
+5996770 2.55
+
+variableStep chrom=chrY span=122
+6001028 9.45
+
+variableStep chrom=chrY span=60
+6020932 27.00
+
+variableStep chrom=chrY span=85
+6022067 6.64
+
+variableStep chrom=chrY span=116
+6034922 3.28
+
+variableStep chrom=chrY span=121
+6068925 3.36
+
+variableStep chrom=chrY span=33
+6083308 2.00
+
+variableStep chrom=chrY span=88
+6098382 17.36
+
+variableStep chrom=chrY span=62
+6160832 3.35
+
+variableStep chrom=chrY span=48
+6354696 3.75
+
+variableStep chrom=chrY span=52
+6443453 2.40
+
+variableStep chrom=chrY span=35
+6443577 3.00
+
+variableStep chrom=chrY span=123
+6445119 7.25
+
+variableStep chrom=chrY span=106
+6450740 7.80
+
+variableStep chrom=chrY span=34
+6477900 3.82
+
+variableStep chrom=chrY span=106
+6481403 8.82
+
+variableStep chrom=chrY span=92
+6487275 9.53
+
+variableStep chrom=chrY span=50
+6523878 25.88
+
+variableStep chrom=chrY span=79
+6528426 15.30
+
+variableStep chrom=chrY span=124
+6540560 20.96
+
+variableStep chrom=chrY span=64
+6544471 2.00
+
+variableStep chrom=chrY span=61
+6560247 7.72
+
+variableStep chrom=chrY span=43
+6560350 6.00
+
+variableStep chrom=chrY span=54
+6577272 11.28
+
+variableStep chrom=chrY span=39
+6607663 3.92
+
+variableStep chrom=chrY span=56
+6625714 3.77
+
+variableStep chrom=chrY span=36
+6709572 3.00
+
+variableStep chrom=chrY span=55
+6750912 6.96
+
+variableStep chrom=chrY span=40
+6789382 4.00
+
+variableStep chrom=chrY span=60
+6820236 2.68
+
+variableStep chrom=chrY span=40
+6821691 2.83
+
+variableStep chrom=chrY span=55
+6822147 4.65
+
+variableStep chrom=chrY span=42
+7030139 2.71
+
+variableStep chrom=chrY span=62
+7096378 11.58
+
+variableStep chrom=chrY span=44
+7098220 5.86
+
+variableStep chrom=chrY span=83
+7099307 2.41
+
+variableStep chrom=chrY span=93
+7122284 2.88
+
+variableStep chrom=chrY span=47
+7143052 3.91
+
+variableStep chrom=chrY span=31
+7167795 5.65
+
+variableStep chrom=chrY span=85
+7231236 7.61
+
+variableStep chrom=chrY span=58
+7439048 7.36
+
+variableStep chrom=chrY span=51
+7592351 2.51
+
+variableStep chrom=chrY span=66
+7645201 7.17
+
+variableStep chrom=chrY span=37
+7651448 2.95
+
+variableStep chrom=chrY span=75
+8007724 2.64
+
+variableStep chrom=chrY span=47
+8064034 7.74
+
+variableStep chrom=chrY span=51
+8143509 3.94
+
+variableStep chrom=chrY span=97
+8174649 8.45
+
+variableStep chrom=chrY span=58
+8724784 5.12
+
+variableStep chrom=chrY span=100
+8761357 12.57
+
+variableStep chrom=chrY span=62
+8806804 5.95
+
+variableStep chrom=chrY span=113
+9377918 9.81
+
+variableStep chrom=chrY span=162
+9428867 2.52
+
+variableStep chrom=chrY span=54
+9433154 5.91
+
+variableStep chrom=chrY span=60
+9433363 2.87
+
+variableStep chrom=chrY span=65
+9433488 19.51
+
+variableStep chrom=chrY span=69
+9568679 3.65
+
+variableStep chrom=chrY span=44
+9719773 2.86
+
+variableStep chrom=chrY span=40
+9793468 2.92
+
+variableStep chrom=chrY span=83
+9935913 11.45
+
+variableStep chrom=chrY span=114
+9937250 5.26
+
+variableStep chrom=chrY span=52
+9937957 15.37
+
+variableStep chrom=chrY span=84
+9939138 6.95
+
+variableStep chrom=chrY span=102
+9942854 3.17
+
+variableStep chrom=chrY span=57
+9948423 5.91
+
+variableStep chrom=chrY span=34
+9957483 4.91
+
+variableStep chrom=chrY span=119
+9961393 4.66
+
+variableStep chrom=chrY span=89
+9964984 19.66
+
+variableStep chrom=chrY span=184
+9965962 3.43
+
+variableStep chrom=chrY span=65
+9968171 6.03
+
+variableStep chrom=chrY span=103
+9970218 2.17
+
+variableStep chrom=chrY span=72
+9970669 27.40
+
+variableStep chrom=chrY span=56
+9977490 36.00
+
+variableStep chrom=chrY span=373
+9979100 16.76
+
+variableStep chrom=chrY span=196
+9982806 11.62
+
+variableStep chrom=chrY span=103
+9984322 10.29
+
+variableStep chrom=chrY span=97
+9985333 44.97
+
+variableStep chrom=chrY span=63
+9986458 23.10
+
+variableStep chrom=chrY span=129
+9989862 7.48
+
+variableStep chrom=chrY span=108
+9991253 50.59
+
+variableStep chrom=chrY span=50
+9993776 7.86
+
+variableStep chrom=chrY span=62
+9994071 16.47
+
+variableStep chrom=chrY span=126
+10005774 14.94
+
+variableStep chrom=chrY span=67
+10005991 27.27
+
+variableStep chrom=chrY span=92
+10008593 17.21
+
+variableStep chrom=chrY span=67
+10010452 5.06
+
+variableStep chrom=chrY span=117
+10011321 19.46
+
+variableStep chrom=chrY span=87
+10012111 18.83
+
+variableStep chrom=chrY span=96
+10017967 15.17
+
+variableStep chrom=chrY span=97
+10022087 2.64
+
+variableStep chrom=chrY span=86
+10027785 4.83
+
+variableStep chrom=chrY span=56
+10029664 14.29
+
+variableStep chrom=chrY span=95
+10036567 5.05
+
+variableStep chrom=chrY span=37
+10059834 2.00
+
+variableStep chrom=chrY span=123
+10093063 11.59
+
+variableStep chrom=chrY span=91
+13140710 10.71
+
+variableStep chrom=chrY span=96
+13142135 3.69
+
+variableStep chrom=chrY span=72
+13143360 11.93
+
+variableStep chrom=chrY span=120
+13194799 28.85
+
+variableStep chrom=chrY span=61
+13217075 2.41
+
+variableStep chrom=chrY span=48
+13242265 32.02
+
+variableStep chrom=chrY span=70
+13243330 7.16
+
+variableStep chrom=chrY span=117
+13244116 36.03
+
+variableStep chrom=chrY span=117
+13245423 7.24
+
+variableStep chrom=chrY span=51
+13246427 9.86
+
+variableStep chrom=chrY span=55
+13249402 3.71
+
+variableStep chrom=chrY span=59
+13250673 3.85
+
+variableStep chrom=chrY span=181
+13259197 3.93
+
+variableStep chrom=chrY span=52
+13262098 33.65
+
+variableStep chrom=chrY span=188
+13274261 16.22
+
+variableStep chrom=chrY span=120
+13276696 6.65
+
+variableStep chrom=chrY span=121
+13280133 14.08
+
+variableStep chrom=chrY span=90
+13288044 10.21
+
+variableStep chrom=chrY span=60
+13288699 7.43
+
+variableStep chrom=chrY span=107
+13290969 16.31
+
+variableStep chrom=chrY span=41
+13297284 12.51
+
+variableStep chrom=chrY span=114
+13302467 22.56
+
+variableStep chrom=chrY span=72
+13302991 13.58
+
+variableStep chrom=chrY span=105
+13306714 2.03
+
+variableStep chrom=chrY span=58
+13308713 13.76
+
+variableStep chrom=chrY span=70
+13309805 2.39
+
+variableStep chrom=chrY span=107
+13311048 10.74
+
+variableStep chrom=chrY span=78
+13312657 6.76
+
+variableStep chrom=chrY span=47
+13314858 4.96
+
+variableStep chrom=chrY span=52
+13315166 15.33
+
+variableStep chrom=chrY span=102
+13317069 6.97
+
+variableStep chrom=chrY span=69
+13325523 26.10
+
+variableStep chrom=chrY span=84
+13330399 15.06
+
+variableStep chrom=chrY span=82
+13350961 2.98
+
+variableStep chrom=chrY span=97
+13351062 17.72
+
+variableStep chrom=chrY span=67
+13353585 23.21
+
+variableStep chrom=chrY span=106
+13354560 50.39
+
+variableStep chrom=chrY span=107
+13362033 15.06
+
+variableStep chrom=chrY span=147
+13363058 66.52
+
+variableStep chrom=chrY span=102
+13363766 6.70
+
+variableStep chrom=chrY span=223
+13363871 26.50
+
+variableStep chrom=chrY span=105
+13369781 4.17
+
+variableStep chrom=chrY span=53
+13370878 29.74
+
+variableStep chrom=chrY span=93
+13374373 6.74
+
+variableStep chrom=chrY span=115
+13377786 12.97
+
+variableStep chrom=chrY span=47
+13380253 3.55
+
+variableStep chrom=chrY span=47
+13384197 13.13
+
+variableStep chrom=chrY span=47
+13384946 11.68
+
+variableStep chrom=chrY span=187
+13385526 2.50
+
+variableStep chrom=chrY span=87
+13388846 33.70
+
+variableStep chrom=chrY span=52
+13389742 5.00
+
+variableStep chrom=chrY span=55
+13393143 3.04
+
+variableStep chrom=chrY span=107
+13393403 17.14
+
+variableStep chrom=chrY span=71
+13395726 3.97
+
+variableStep chrom=chrY span=122
+13400490 7.11
+
+variableStep chrom=chrY span=158
+13404207 26.01
+
+variableStep chrom=chrY span=69
+13410455 13.39
+
+variableStep chrom=chrY span=284
+13412604 22.52
+
+variableStep chrom=chrY span=74
+13416301 34.35
+
+variableStep chrom=chrY span=144
+13419994 22.64
+
+variableStep chrom=chrY span=71
+13421844 6.87
+
+variableStep chrom=chrY span=111
+13424576 7.73
+
+variableStep chrom=chrY span=65
+13424808 14.03
+
+variableStep chrom=chrY span=67
+13430950 2.91
+
+variableStep chrom=chrY span=173
+13431882 13.58
+
+variableStep chrom=chrY span=77
+13433414 19.81
+
+variableStep chrom=chrY span=125
+13436901 25.13
+
+variableStep chrom=chrY span=88
+13447327 7.28
+
+variableStep chrom=chrY span=328
+13448639 34.77
+
+variableStep chrom=chrY span=149
+13449201 30.65
+
+variableStep chrom=chrY span=165
+13449583 36.56
+
+variableStep chrom=chrY span=179
+13450134 24.61
+
+variableStep chrom=chrY span=109
+13451713 18.43
+
+variableStep chrom=chrY span=118
+13452282 16.45
+
+variableStep chrom=chrY span=32
+13459806 4.44
+
+variableStep chrom=chrY span=50
+13459932 3.78
+
+variableStep chrom=chrY span=87
+13463265 9.10
+
+variableStep chrom=chrY span=59
+13465635 8.61
+
+variableStep chrom=chrY span=138
+13469771 28.50
+
+variableStep chrom=chrY span=72
+13470836 4.46
+
+variableStep chrom=chrY span=108
+13471266 2.73
+
+variableStep chrom=chrY span=157
+13473208 5.73
+
+variableStep chrom=chrY span=32
+13474861 16.34
+
+variableStep chrom=chrY span=63
+13476193 6.97
+
+variableStep chrom=chrY span=304
+13476349 16.61
+
+variableStep chrom=chrY span=126
+13479123 75.88
+
+variableStep chrom=chrY span=205
+13479317 36.10
+
+variableStep chrom=chrY span=62
+13479715 4.16
+
+variableStep chrom=chrY span=108
+13485153 298.45
+
+variableStep chrom=chrY span=38
+13485811 5.42
+
+variableStep chrom=chrY span=38
+13487203 8.21
+
+variableStep chrom=chrY span=124
+13489359 11.54
+
+variableStep chrom=chrY span=377
+13489736 55.41
+
+variableStep chrom=chrY span=85
+13493938 18.80
+
+variableStep chrom=chrY span=79
+13500064 2.52
+
+variableStep chrom=chrY span=54
+13515314 2.98
+
+variableStep chrom=chrY span=50
+13526928 6.82
+
+variableStep chrom=chrY span=217
+13537817 9.14
+
+variableStep chrom=chrY span=33
+13551505 13.45
+
+variableStep chrom=chrY span=104
+13554213 22.84
+
+variableStep chrom=chrY span=57
+13561846 13.82
+
+variableStep chrom=chrY span=50
+13570262 5.98
+
+variableStep chrom=chrY span=32
+13571538 5.00
+
+variableStep chrom=chrY span=89
+13589935 7.62
+
+variableStep chrom=chrY span=48
+13608049 2.92
+
+variableStep chrom=chrY span=85
+13634300 3.98
+
+variableStep chrom=chrY span=143
+13849158 2.52
+
+variableStep chrom=chrY span=46
+13892056 6.46
+
+variableStep chrom=chrY span=68
+13914100 3.57
+
+variableStep chrom=chrY span=57
+13926386 4.81
+
+variableStep chrom=chrY span=124
+13933386 12.27
+
+variableStep chrom=chrY span=120
+13934977 7.92
+
+variableStep chrom=chrY span=31
+13989221 4.00
+
+variableStep chrom=chrY span=216
+14109663 5.72
+
+variableStep chrom=chrY span=73
+14110445 2.75
+
+variableStep chrom=chrY span=107
+14130438 2.95
+
+variableStep chrom=chrY span=44
+14163075 4.00
+
+variableStep chrom=chrY span=74
+14191713 10.82
+
+variableStep chrom=chrY span=39
+14319985 6.46
+
+variableStep chrom=chrY span=34
+14460541 8.85
+
+variableStep chrom=chrY span=58
+14518728 2.67
+
+variableStep chrom=chrY span=102
+14550036 4.67
+
+variableStep chrom=chrY span=37
+14550841 7.00
+
+variableStep chrom=chrY span=90
+14598702 13.06
+
+variableStep chrom=chrY span=88
+14616761 11.86
+
+variableStep chrom=chrY span=116
+14619082 14.51
+
+variableStep chrom=chrY span=92
+14630806 11.61
+
+variableStep chrom=chrY span=90
+14690460 15.06
+
+variableStep chrom=chrY span=46
+14744905 4.13
+
+variableStep chrom=chrY span=52
+14908224 4.00
+
+variableStep chrom=chrY span=65
+14991088 2.62
+
+variableStep chrom=chrY span=53
+15059932 2.94
+
+variableStep chrom=chrY span=73
+15098280 4.19
+
+variableStep chrom=chrY span=59
+15100928 4.98
+
+variableStep chrom=chrY span=72
+15140892 2.00
+
+variableStep chrom=chrY span=101
+15141041 6.90
+
+variableStep chrom=chrY span=50
+15171290 4.90
+
+variableStep chrom=chrY span=67
+15185762 2.06
+
+variableStep chrom=chrY span=33
+15221320 2.91
+
+variableStep chrom=chrY span=44
+15231820 4.77
+
+variableStep chrom=chrY span=123
+15244769 4.58
+
+variableStep chrom=chrY span=102
+15247773 7.24
+
+variableStep chrom=chrY span=44
+15271500 7.77
+
+variableStep chrom=chrY span=91
+15292306 3.51
+
+variableStep chrom=chrY span=31
+15355065 4.90
+
+variableStep chrom=chrY span=117
+15570199 23.82
+
+variableStep chrom=chrY span=68
+15638063 6.74
+
+variableStep chrom=chrY span=122
+15683399 2.81
+
+variableStep chrom=chrY span=35
+15834461 19.11
+
+variableStep chrom=chrY span=37
+15837263 2.00
+
+variableStep chrom=chrY span=43
+15918374 13.14
+
+variableStep chrom=chrY span=33
+15967750 5.97
+
+variableStep chrom=chrY span=48
+16033164 3.90
+
+variableStep chrom=chrY span=64
+16049181 7.97
+
+variableStep chrom=chrY span=138
+16082884 2.40
+
+variableStep chrom=chrY span=79
+16093425 14.51
+
+variableStep chrom=chrY span=231
+16397600 19.82
+
+variableStep chrom=chrY span=35
+16399462 11.94
+
+variableStep chrom=chrY span=65
+16500083 6.98
+
+variableStep chrom=chrY span=116
+16501409 28.84
+
+variableStep chrom=chrY span=70
+16514030 4.00
+
+variableStep chrom=chrY span=62
+16605294 2.60
+
+variableStep chrom=chrY span=34
+16678548 2.00
+
+variableStep chrom=chrY span=46
+16726507 2.80
+
+variableStep chrom=chrY span=52
+16977917 4.90
+
+variableStep chrom=chrY span=75
+16995294 21.52
+
+variableStep chrom=chrY span=112
+17035451 2.30
+
+variableStep chrom=chrY span=39
+17163897 3.79
+
+variableStep chrom=chrY span=92
+17258276 4.97
+
+variableStep chrom=chrY span=77
+17346133 9.32
+
+variableStep chrom=chrY span=91
+17376144 2.89
+
+variableStep chrom=chrY span=38
+17376776 3.92
+
+variableStep chrom=chrY span=106
+17434445 25.08
+
+variableStep chrom=chrY span=52
+17523140 4.00
+
+variableStep chrom=chrY span=62
+17542591 5.48
+
+variableStep chrom=chrY span=51
+17607520 2.65
+
+variableStep chrom=chrY span=170
+17762358 3.98
+
+variableStep chrom=chrY span=30
+17788447 12.97
+
+variableStep chrom=chrY span=102
+17827006 21.16
+
+variableStep chrom=chrY span=107
+17955841 15.92
+
+variableStep chrom=chrY span=105
+17999204 4.92
+
+variableStep chrom=chrY span=103
+18041896 2.27
+
+variableStep chrom=chrY span=65
+18127570 4.58
+
+variableStep chrom=chrY span=47
+18331095 2.00
+
+variableStep chrom=chrY span=39
+18365141 10.74
+
+variableStep chrom=chrY span=93
+18540977 6.43
+
+variableStep chrom=chrY span=75
+18747145 7.91
+
+variableStep chrom=chrY span=37
+18763761 5.81
+
+variableStep chrom=chrY span=71
+18975725 2.63
+
+variableStep chrom=chrY span=65
+19052366 2.66
+
+variableStep chrom=chrY span=69
+19175672 17.48
+
+variableStep chrom=chrY span=86
+19175910 45.13
+
+variableStep chrom=chrY span=68
+19202859 7.28
+
+variableStep chrom=chrY span=87
+19270475 9.64
+
+variableStep chrom=chrY span=57
+19356015 2.61
+
+variableStep chrom=chrY span=112
+19434667 2.04
+
+variableStep chrom=chrY span=144
+19487497 3.97
+
+variableStep chrom=chrY span=112
+19489101 6.23
+
+variableStep chrom=chrY span=32
+19515214 4.88
+
+variableStep chrom=chrY span=35
+19638599 5.66
+
+variableStep chrom=chrY span=35
+19643812 4.66
+
+variableStep chrom=chrY span=56
+19652879 3.93
+
+variableStep chrom=chrY span=79
+19725900 10.06
+
+variableStep chrom=chrY span=67
+20120666 2.57
+
+variableStep chrom=chrY span=68
+20123468 10.12
+
+variableStep chrom=chrY span=80
+20286828 2.76
+
+variableStep chrom=chrY span=67
+20439607 21.60
+
+variableStep chrom=chrY span=53
+20526847 4.94
+
+variableStep chrom=chrY span=37
+21090011 7.57
+
+variableStep chrom=chrY span=48
+21188271 4.92
+
+variableStep chrom=chrY span=68
+21238151 4.07
+
+variableStep chrom=chrY span=40
+21282999 3.85
+
+variableStep chrom=chrY span=37
+21449648 2.92
+
+variableStep chrom=chrY span=58
+21450230 10.22
+
+variableStep chrom=chrY span=67
+21496580 18.36
+
+variableStep chrom=chrY span=120
+21538631 24.28
+
+variableStep chrom=chrY span=53
+21599291 10.23
+
+variableStep chrom=chrY span=34
+21743398 2.00
+
+variableStep chrom=chrY span=64
+21809993 2.91
+
+variableStep chrom=chrY span=167
+21828842 3.69
+
+variableStep chrom=chrY span=37
+21968471 4.54
+
+variableStep chrom=chrY span=96
+22013886 4.58
+
+variableStep chrom=chrY span=35
+22023884 2.66
+
+variableStep chrom=chrY span=144
+22054471 11.34
+
+variableStep chrom=chrY span=33
+22115666 6.00
+
+variableStep chrom=chrY span=48
+22164499 3.96
+
+variableStep chrom=chrY span=68
+22196307 2.97
+
+variableStep chrom=chrY span=43
+22547583 9.72
+
+variableStep chrom=chrY span=69
+22657280 2.81
+
+variableStep chrom=chrY span=59
+22697160 2.92
+
+variableStep chrom=chrY span=80
+22774004 21.29
+
+variableStep chrom=chrY span=59
+22781033 5.00
+
+variableStep chrom=chrY span=76
+22962009 2.00
+
+variableStep chrom=chrY span=69
+22982891 7.52
+
+variableStep chrom=chrY span=53
+22986693 5.89
+
+variableStep chrom=chrY span=35
+23206520 6.00
+
+variableStep chrom=chrY span=35
+23290172 3.77
+
+variableStep chrom=chrY span=78
+23377314 3.26
+
+variableStep chrom=chrY span=63
+23425052 2.56
+
+variableStep chrom=chrY span=76
+23429841 11.76
+
+variableStep chrom=chrY span=30
+23468592 2.80
+
+variableStep chrom=chrY span=55
+23600749 10.78
+
+variableStep chrom=chrY span=38
+23827471 3.82
+
+variableStep chrom=chrY span=70
+24434988 10.67
+
+variableStep chrom=chrY span=73
+24488870 10.51
+
+variableStep chrom=chrY span=94
+24489249 5.41
+
+variableStep chrom=chrY span=154
+24489389 4.64
+
+variableStep chrom=chrY span=94
+24491336 4.15
+
+variableStep chrom=chrY span=123
+25004431 6.85
+
+variableStep chrom=chrY span=93
+25207585 8.44
+
+variableStep chrom=chrY span=99
+25207774 6.27
+
+variableStep chrom=chrY span=73
+25278615 4.10
+
+variableStep chrom=chrY span=96
+25407328 9.73
+
+variableStep chrom=chrY span=34
+25473236 5.00
+
+variableStep chrom=chrY span=31
+25851410 2.81
+
+variableStep chrom=chrY span=45
+25920384 6.60
+
+variableStep chrom=chrY span=147
+26286194 2.80
+
+variableStep chrom=chrY span=45
+26289089 10.42
+
+variableStep chrom=chrY span=35
+26321098 6.74
+
+variableStep chrom=chrY span=103
+26379859 15.62
+
+variableStep chrom=chrY span=56
+26432090 8.16
+
+variableStep chrom=chrY span=54
+26461649 8.31
+
+variableStep chrom=chrY span=40
+26479774 5.00
+
+variableStep chrom=chrY span=67
+26485257 3.94
+
+variableStep chrom=chrY span=59
+26495092 2.68
+
+variableStep chrom=chrY span=123
+27126747 16.31
+
+variableStep chrom=chrY span=95
+27322758 4.79
+
+variableStep chrom=chrY span=32
+27455475 3.94
+
+variableStep chrom=chrY span=59
+27467295 6.97
+
+variableStep chrom=chrY span=43
+27550962 4.00
+
+variableStep chrom=chrY span=35
+27641307 3.91
+
+variableStep chrom=chrY span=55
+27752229 5.71
+
+variableStep chrom=chrY span=84
+27851077 3.90
+
+variableStep chrom=chrY span=42
+28039154 8.12
+
+variableStep chrom=chrY span=53
+28400005 7.79
+
+variableStep chrom=chrY span=82
+28410918 10.74
+
+variableStep chrom=chrY span=62
+28423716 2.16
+
+variableStep chrom=chrY span=77
+28435322 4.78
+
+variableStep chrom=chrY span=39
+28446988 3.74
+
+variableStep chrom=chrY span=46
+28498290 22.52
+
+variableStep chrom=chrY span=102
+28506685 5.26
+
+variableStep chrom=chrY span=67
+28536695 2.84
+
+variableStep chrom=chrY span=45
+28577705 3.98
+
+variableStep chrom=chrY span=104
+28585503 18.58
+
+variableStep chrom=chrY span=41
+28596602 8.71
+
+variableStep chrom=chrY span=66
+28615554 3.50
+
+variableStep chrom=chrY span=59
+28682189 3.51
+
+variableStep chrom=chrY span=59
+28683311 8.86
+
+variableStep chrom=chrY span=220
+58821672 11.19
+
+variableStep chrom=chrY span=104
+58910725 24.71
+
+variableStep chrom=chrY span=79
+58969883 14.06
+
+variableStep chrom=chrY span=430
+58977044 29.96
+
+variableStep chrom=chrY span=284
+58978644 23.50
+
+variableStep chrom=chrY span=155
+58979532 16.48
+
+variableStep chrom=chrY span=258
+58979909 5.74
+
+variableStep chrom=chrY span=166
+58981760 32.06
+
+variableStep chrom=chrY span=67
+58983917 9.16
+
+variableStep chrom=chrY span=38
+58984013 5.68
+
+variableStep chrom=chrY span=74
+58984130 41.38
+
+variableStep chrom=chrY span=62
+58984215 7.06
+
+variableStep chrom=chrY span=72
+58986702 2.67
+
+variableStep chrom=chrY span=55
+58986812 3.00
+
+variableStep chrom=chrY span=75
+58987564 21.13
+
+variableStep chrom=chrY span=55
+58987740 4.80
+
+variableStep chrom=chrY span=47
+58987823 10.51
+
+variableStep chrom=chrY span=60
+58988189 5.18
+
+variableStep chrom=chrY span=63
+58988584 6.32
+
+variableStep chrom=chrY span=106
+58988658 12.15
+
+variableStep chrom=chrY span=199
+58989213 46.75
+
+variableStep chrom=chrY span=72
+58989546 18.49
+
+variableStep chrom=chrY span=135
+58990057 10.27
+
+variableStep chrom=chrY span=46
+58990723 12.39
+
+variableStep chrom=chrY span=36
+58990833 6.94
+
+variableStep chrom=chrY span=42
+58991643 4.62
+
+variableStep chrom=chrY span=51
+58992014 25.27
+
+variableStep chrom=chrY span=79
+58993540 7.81
+
+variableStep chrom=chrY span=57
+58993664 36.81
+
+variableStep chrom=chrY span=182
+58993876 402.30
+
+variableStep chrom=chrY span=53
+58994822 21.70
+
+variableStep chrom=chrY span=32
+58995937 6.78
+
+variableStep chrom=chrY span=66
+58996309 2.88
+
+variableStep chrom=chrY span=58
+58996734 16.21
+
+variableStep chrom=chrY span=106
+59000184 11.44
+
+variableStep chrom=chrY span=55
+59001513 10.36
+
+variableStep chrom=chrY span=145
+59001974 30.29
+
+variableStep chrom=chrY span=73
+59003874 19.63
+
+variableStep chrom=chrY span=32
+59004884 4.66
+
+variableStep chrom=chrY span=104
+59007780 32.82
+
+variableStep chrom=chrY span=59
+59009557 7.29
+
+variableStep chrom=chrY span=144
+59012594 13.54
+
+variableStep chrom=chrY span=111
+59013590 2.37
+
+variableStep chrom=chrY span=91
+59013952 58.58
+
+variableStep chrom=chrY span=131
+59014954 18.34
+
+variableStep chrom=chrY span=202
+59015798 46.93
+
+variableStep chrom=chrY span=87
+59016293 17.72
+
+variableStep chrom=chrY span=58
+59016469 12.26
+
+variableStep chrom=chrY span=325
+59017152 25.60
+
+variableStep chrom=chrY span=47
+59019786 7.04
+
+variableStep chrom=chrY span=56
+59021787 28.63
+
+variableStep chrom=chrY span=189
+59022503 6.93
+
+variableStep chrom=chrY span=54
+59023730 15.33
+
+variableStep chrom=chrY span=146
+59024337 4.21
+
+variableStep chrom=chrY span=141
+59028130 29.64
+
+variableStep chrom=chrY span=44
+59029571 4.68
+
+variableStep chrom=chrY span=92
+59030620 17.95
+
+variableStep chrom=chrY span=175
+59033162 15.56
+
+variableStep chrom=chrY span=93
+59039180 32.96
+
+variableStep chrom=chrY span=120
+59050139 10.19
+
+variableStep chrom=chrY span=111
+59055899 5.18
+
+variableStep chrom=chrY span=130
+59059398 18.82
+
+variableStep chrom=chrY span=81
+59062993 19.47
+
+variableStep chrom=chrY span=66
+59064327 18.50
+
+variableStep chrom=chrY span=44
+59066461 6.84
+
+variableStep chrom=chrY span=65
+59067075 4.86
+
+variableStep chrom=chrY span=154
+59070145 18.51
+
+variableStep chrom=chrY span=78
+59071112 15.37
+
+variableStep chrom=chrY span=91
+59074195 27.87
+
+variableStep chrom=chrY span=94
+59093221 10.57
+
+variableStep chrom=chrY span=112
+59099146 11.09
+
+variableStep chrom=chrY span=79
+59102824 9.41
+
+variableStep chrom=chrY span=111
+59103804 8.47
+
+variableStep chrom=chrY span=68
+59107697 21.68
+
+variableStep chrom=chrY span=105
+59116914 22.42
+
+variableStep chrom=chrY span=87
+59127773 3.97
+
+variableStep chrom=chrY span=122
+59134778 8.24
+
+variableStep chrom=chrY span=146
+59139713 8.83
+
+variableStep chrom=chrY span=47
+59144517 3.00
+
+variableStep chrom=chrY span=120
+59156911 8.31
+
+variableStep chrom=chrY span=84
+59163189 5.68
+
+variableStep chrom=chrY span=82
+59164246 9.02
+
+variableStep chrom=chrY span=89
+59167599 16.37
+
+variableStep chrom=chrY span=162
+59172644 7.62
+
+variableStep chrom=chrY span=72
+59173992 20.63
+
+variableStep chrom=chrY span=81
+59175717 3.15
+
+variableStep chrom=chrY span=45
+59177695 2.00
+
+variableStep chrom=chrY span=97
+59180716 17.46
+
+variableStep chrom=chrY span=148
+59181079 11.80
+
+variableStep chrom=chrY span=168
+59191277 20.91
+
+variableStep chrom=chrY span=105
+59195893 18.37
+
+variableStep chrom=chrY span=127
+59196217 7.47
+
+variableStep chrom=chrY span=71
+59197157 9.58
+
+variableStep chrom=chrY span=38
+59215150 4.84
+
+variableStep chrom=chrY span=34
+59216038 2.00
+
+variableStep chrom=chrY span=81
+59222741 12.93
+
+variableStep chrom=chrY span=69
+59227323 7.42
+
+variableStep chrom=chrY span=123
+59230337 5.08
+
+variableStep chrom=chrY span=162
+59230657 34.58
+
+variableStep chrom=chrY span=38
+59232449 3.00
+
+variableStep chrom=chrY span=66
+59236026 10.33
+
+variableStep chrom=chrY span=63
+59236480 6.79
+
+variableStep chrom=chrY span=69
+59240907 4.04
+
+variableStep chrom=chrY span=72
+59244443 4.51
+
+variableStep chrom=chrY span=48
+59249346 7.00
+
+variableStep chrom=chrY span=68
+59250832 7.24
+
+variableStep chrom=chrY span=95
+59253824 12.65
+
+variableStep chrom=chrY span=99
+59262353 15.59
+
+variableStep chrom=chrY span=200
+59271227 5.61
+
+variableStep chrom=chrY span=51
+59281119 9.59
+
+variableStep chrom=chrY span=71
+59286788 7.56
+
+variableStep chrom=chrY span=108
+59291968 20.28
+
+variableStep chrom=chrY span=114
+59295215 4.44
+
+variableStep chrom=chrY span=84
+59299773 16.24
+
+variableStep chrom=chrY span=114
+59306715 7.36
+
+variableStep chrom=chrY span=69
+59310026 3.07
+
+variableStep chrom=chrY span=35
+59310493 4.86
+
+variableStep chrom=chrY span=57
+59320087 7.30
+
+variableStep chrom=chrY span=123
+59320544 13.83
+
+variableStep chrom=chrY span=52
+59329355 7.27
+
+variableStep chrom=chrY span=99
+59329445 61.47
+
+variableStep chrom=chrY span=85
+59336164 10.12
+
+variableStep chrom=chrY span=135
+59357514 5.04
+
