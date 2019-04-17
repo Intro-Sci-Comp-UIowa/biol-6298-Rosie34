@@ -1,2 +1,9 @@
-# Alignment 
+# Alignment
+1: SRX032295 (Input DNA)
+10: SRX032293 (Jurkat-gamma-H2AX)
+11: SRX032292 (CD4 gamma-H2AX after IR)
+12: SRX032291 (H2AX)
+13: SRX032290 (Jurkat H2AX)
+14: SRX032288 (CD4 H2A)
+15: SRX032289 (CD4 H2AX)
 After alignment, all files are created to bam files.
