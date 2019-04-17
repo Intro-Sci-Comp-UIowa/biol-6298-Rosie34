@@ -1,0 +1,2 @@
+# Alignment 
+After alignment, all files are created to bam files.
