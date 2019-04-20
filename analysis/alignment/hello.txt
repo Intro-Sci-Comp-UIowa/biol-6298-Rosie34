@@ -6,4 +6,4 @@
 13: SRX032290 (Jurkat H2AX)
 14: SRX032288 (CD4 H2A)
 15: SRX032289 (CD4 H2AX)
-After alignment, all files are created to bam files.
+After alignment, all files are created to bam files and converted to bed files for peak calling.
