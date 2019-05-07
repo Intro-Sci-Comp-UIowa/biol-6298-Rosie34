@@ -12,7 +12,9 @@ df <- data.frame(A = c(0.645, 0.894, 0.956,1),
 		 
 		 
 colnames(df) <- c("H2AXCD4+",   "γH2AX,Jurkat",   "γH2AX,Cd4+,IR",   "DSB")
+
 rownames(df) <- c("DSB",   "γH2AX,Cd4+,IR",   "γH2AX,Jurka",   "H2AXCD4+")
+
 df_matrix <- as.matrix(df)
 
 
@@ -22,6 +24,7 @@ mat_data<- data.matrix(df[,1:ncol(df)])
 #pdf("Heatmap.pdf")
 
 heatmap.2(df_matrix,
+
           cellnote = mat_data,  # same data set for cell labels
 	col=bluered(75),
           main = "COSMOS project", # heat map title
