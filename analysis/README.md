@@ -6,3 +6,6 @@ In addition, all ChIP-Seq data sets were analyzed by Perl scripts to calculate t
 
 # GenometriCorr
 http://genometricorr.sourceforge.net/galaxy/galaxyintegration.html
+
+# UCSC genome browser
+https://genome.ucsc.edu/
