@@ -1,10 +1,16 @@
 #R script
 
 library(gplots)
+
 df <- data.frame(A = c(0.645, 0.894, 0.956,1), 
+
                  B=c(0.53, 0.901, 1, 0.956), 
+		 
                  C= c(0.585,1,0.901,0.894), 
+		 
                  D=c(1,0.585,0.53,0.645))
+		 
+		 
 colnames(df) <- c("H2AXCD4+",   "γH2AX,Jurkat",   "γH2AX,Cd4+,IR",   "DSB")
 rownames(df) <- c("DSB",   "γH2AX,Cd4+,IR",   "γH2AX,Jurka",   "H2AXCD4+")
 df_matrix <- as.matrix(df)
